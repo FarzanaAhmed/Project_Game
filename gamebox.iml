@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx-swt.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.base.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.controls.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.fxml.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.graphics.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.media.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.swing.jar!/" />
+    <content url="jar://$USER_HOME$/Downloads/javafx-sdk-20.0.2/lib/javafx.web.jar!/" />
+  </component>
+</module>
